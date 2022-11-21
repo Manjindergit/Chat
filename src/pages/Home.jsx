@@ -8,6 +8,7 @@ const Home=()=>{
             <div className="container">
                 <Sidebar></Sidebar>
                 <Chat></Chat>
+                
             </div>
         </div>
     )
